@@ -1,5 +1,14 @@
 # ossa-demo
 
+## 1.5.2
+
+### Patch Changes
+
+- [#78](https://github.com/NeteaseYanxuan/OSSA/pull/78) [`1039034`](https://github.com/NeteaseYanxuan/OSSA/commit/10390343772e0edacdf165f27866323b46dc2241) Thanks [@kiner-tang](https://github.com/kiner-tang)! - feat(noticeBar): 通知栏自定义滚动时长支持
+
+- Updated dependencies [[`1039034`](https://github.com/NeteaseYanxuan/OSSA/commit/10390343772e0edacdf165f27866323b46dc2241)]:
+  - ossaui@0.4.2
+
 ## 1.5.1
 
 ### Patch Changes
