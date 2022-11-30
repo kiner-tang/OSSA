@@ -1,5 +1,21 @@
 # ossa-doc
 
+## 0.2.0
+
+### Minor Changes
+
+- [#65](https://github.com/NeteaseYanxuan/OSSA/pull/65) [`3ca5bc3`](https://github.com/NeteaseYanxuan/OSSA/commit/3ca5bc3137e937cd8fe39bbb7b8feaaf1f7759c5) Thanks [@jianzhouf](https://github.com/jianzhouf)! - 增加倒计时组件
+
+### Patch Changes
+
+- [#89](https://github.com/NeteaseYanxuan/OSSA/pull/89) [`10d5f60`](https://github.com/NeteaseYanxuan/OSSA/commit/10d5f603b3c9f4b169b2a1a8d285fed68202456c) Thanks [@kiner-tang](https://github.com/kiner-tang)! - feat: 完善评分组件文档 & 优化属性命名
+
+* [#94](https://github.com/NeteaseYanxuan/OSSA/pull/94) [`ed2c5fa`](https://github.com/NeteaseYanxuan/OSSA/commit/ed2c5fa30bd47696719ee4870cebb2a8063c7986) Thanks [@kiner-tang](https://github.com/kiner-tang)! - feat: 完善 tab-bar 组件文档与类型描述
+
+- [#90](https://github.com/NeteaseYanxuan/OSSA/pull/90) [`664ccaa`](https://github.com/NeteaseYanxuan/OSSA/commit/664ccaaf534534e16258043f281e5414147e18a3) Thanks [@kiner-tang](https://github.com/kiner-tang)! - feat: 补充步进器相关文档与类型描述
+
+* [#93](https://github.com/NeteaseYanxuan/OSSA/pull/93) [`f0e0853`](https://github.com/NeteaseYanxuan/OSSA/commit/f0e08537a505e9bb422f8426c5cffd5b88a78ff5) Thanks [@kiner-tang](https://github.com/kiner-tang)! - feat: 完善 switch 组件相关文档 & 类型描述优化
+
 ## 0.1.0
 
 ### Minor Changes
